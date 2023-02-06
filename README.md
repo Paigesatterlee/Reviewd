@@ -1,2 +1,2 @@
-# Reviewd
-movie and tv show review app
+# calender app
+shared calender and events app
